@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.mvc.View?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+
+<View maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="80.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ht2.Harkkatyov2GUIController">
+   <center>
+      <Label prefHeight="22.0" text="Poistetaanko kierros: Keljonkankaan frisbeegolf, 29.1.2022 ?" BorderPane.alignment="CENTER">
+         <padding>
+            <Insets left="20.0" right="20.0" />
+         </padding></Label>
+   </center>
+   <bottom>
+      <ButtonBar prefHeight="50.0" BorderPane.alignment="CENTER">
+        <buttons>
+          <Button alignment="BOTTOM_CENTER" defaultButton="true" mnemonicParsing="false" onAction="#handleTulosta" text="Kyllä" />
+            <Button mnemonicParsing="false" text="Ei" />
+        </buttons>
+         <padding>
+            <Insets right="90.0" />
+         </padding>
+      </ButtonBar>
+   </bottom>
+</View>

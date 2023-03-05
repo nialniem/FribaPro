@@ -1,0 +1,60 @@
+*   [33mcommit e1fe17c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtyo3[m[33m)[m
+[31m|[m[32m\[m  Merge: 2571b59 d25eb35
+[31m|[m [32m|[m Author: hiltujx <hiltujx@student.jyu.fi>
+[31m|[m [32m|[m Date:   Thu Feb 3 15:25:38 2022 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'master' of https://gitlab.jyu.fi/hiltujx/ohj2 into master
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit d25eb35[m
+[31m|[m [32m|[m Author: hiltujx <hiltujx@jyu.fi>
+[31m|[m [32m|[m Date:   Tue Jan 18 10:40:18 2022 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update README.md
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit ec48d9c[m
+[31m|[m [32m|[m Author: hiltujx <hiltujx@jyu.fi>
+[31m|[m [32m|[m Date:   Tue Jan 18 10:39:28 2022 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update README.md
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 2571b59[m[33m ([m[1;31morigin/tyo2[m[33m, [m[1;32mtyo2[m[33m)[m
+[32m|[m [32m|[m Author: hiltujx <hiltujx@student.jyu.fi>
+[32m|[m [32m|[m Date:   Thu Feb 3 15:18:04 2022 +0200
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     uusi paaikkuna kuva
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit 6ee79b6[m
+[32m|[m [32m|[m Author: hiltujx <hiltujx@student.jyu.fi>
+[32m|[m [32m|[m Date:   Thu Feb 3 15:11:05 2022 +0200
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     .dat tiedostot
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit e5049d8[m
+[32m|[m[32m/[m  Author: hiltujx <hiltujx@student.jyu.fi>
+[32m|[m   Date:   Thu Feb 3 15:04:06 2022 +0200
+[32m|[m   
+[32m|[m       Vaiheen 2 kuvat
+[32m|[m 
+* [33mcommit 744cdb1[m
+[32m|[m Author: hiltujx <hiltujx@student.jyu.fi>
+[32m|[m Date:   Fri Jan 14 23:14:37 2022 +0200
+[32m|[m 
+[32m|[m     Lisätty kuvat pienemmässä koossa
+[32m|[m 
+* [33mcommit 1c9fa2e[m
+[32m|[m Author: Vesa Lappalainen <vesal@jyu.fi>
+[32m|[m Date:   Thu Jan 6 21:11:11 2022 +0200
+[32m|[m 
+[32m|[m     Update README.md
+[32m|[m 
+* [33mcommit e871aa8[m
+[32m|[m Author: Vesa Lappalainen <vesal@jyu.fi>
+[32m|[m Date:   Sat Nov 28 20:20:11 2020 +0200
+[32m|[m 
+[32m|[m     Update README.md
+[32m|[m 
+* [33mcommit f6bf22a[m
+  Author: Vesa Lappalainen <vesal@jyu.fi>
+  Date:   Fri Jan 3 17:57:36 2020 +0200
+  
+      tiedostot paikalleen

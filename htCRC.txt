@@ -1,0 +1,241 @@
+|------------------------------------------------------------------------|
+| Luokan nimi:   Pelaajat                            | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |		         | 
+| - pitää yllä varsinaista pelaaja rekisteriä, eli   |- pelaaja          | 
+|   osaa lisätä ja poistaa listalta		     |			 | 
+|-  lukee ja kirjoittaa Pelaajat tiedostoon          |                   |
+|                       	                     |                   | 
+|   						     |			 | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi:   Kierrokset                          | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |- radat            | 
+|- tietää pelatun kenttien par-tulokset	ja pelattujen|                   | 
+| pelien pvm.					     |- pelaaja          | 
+|    						     |                   |
+|- pitää yllä varsinaista kierros rekisteriä, joka   |- kierros          | 
+|  osaa aloittaa(lisää) ja poistaa kierroksen	     |                   |
+|                       		             |                   | 
+|   						     |                   | 
+|- lukee ja kirjoittaa kierrokset tiedostoon	     |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi:  Radat                                | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |  - rata           | 
+| - muistaa pelattujen ratojen nimet                 |                   | 
+|                                                    |                   | 
+| - pitää yllä varsinaista radat listaa, jossa       |                   | 
+|   ratojen nimet ja Par taso                        |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi: Pelikaverit                           | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    | - pelaaja         | 
+| - Pitää yllä pelikaverit listaa		     |                   | 
+|                                                    | - pelikaverit     | 
+|- pystyy lisäämään ja poistamaan pelikavereita      |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi:Friba                                  | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |- Pelaajat         | 
+|- huolehtii Pelaajat ja Kierrokset- luokkien        |                   | 
+|  välisestä yhteistyöstä ja välittää näitä tietoja  |- Kierrokset       | 
+|  pyydettäessä                                      |                   | 
+|                                                    |- pelaaja          | 
+|- lukee ja kirjoittaa Friba tiedostoon pyytämällä   |                   | 
+|  apua avustajiltaan.                               |- kierros          | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi: Pelaaja                               | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+| - Tietää pelaajan iän, kotpiakkakunnan ja tason    |                   | 
+|                                                    |                   | 
+|- osaa muuttaa 1|Nieminen Niklas|...| - merkkijonon |                   |
+|   jäsenen tiedoiksi                                |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+| - osaa antaa merkkijonona i:n kentän tiedot        |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi: Kierros                               | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    | - pelaajat        | 
+|                                                    |                   | 
+| - osaa laske tuloksen ja muuttamaan sen            |                   | 
+|   merkkijonoksi.                                   |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi:  Rata                                 | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |                   | 
+|- Muistaaa vanhoja pelattuja ratojen nimiä          |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi: Pelikaveri                            | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |                   | 
+| - tietää pelikaverin kentät (nimi, Taso)	     |                   | 
+|- osaa muuttaa 1|Jimi Hiltunen|..| - merkkijonon    |                   | 
+|  pelikaverit tiedoiksi                             |                   | 
+|                                                    |                   | 
+| - osaa antaa merkkijonona i:n kentän tiedot        |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+|------------------------------------------------------------------------|
+| Luokan nimi: Näyttö                                | Avustajat:        |
+|-------------------------------------------------------------------------
+| Vastuualueet:                                      |                   | 
+|                                                    |                   | 
+|- hoitaa kaiken näyttöön tulevan tekstin            |                   | 
+|                                                    |                   | 
+|- hoitaa kaiken tiedon pyytämisen käyttäjältä       |                   | 
+|                                                    |                   | 
+|						     |			 | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|                                                    |                   | 
+|-------------------------------------------------------------------------
+
+
+
+
+
+
